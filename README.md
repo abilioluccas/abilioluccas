@@ -4,6 +4,7 @@
 - 👀 I’m looking to collaborate on software development
 - 📫 How to reach me abilioluccas@gmail.com
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abilioluccas/).com/in/abilioluccas/
+- 📫 My online CV AbilioLuccas.[github.io](https://abilioluccas.github.io/) 
 
 <!---
 abilioluccas/abilioluccas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

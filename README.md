@@ -1,7 +1,7 @@
 # Abilio Luccas
 ## Junior FullStack Developer
 - 🌱 I recently completed my Java and JavaScript Full Stack Developer Bootcamp @ Code for All
-- 👀 I’m looking to collaborate on software development
+- 👀 I'm looking for a position as a Junior Developer
 - 📫 How to reach me abilioluccas@gmail.com
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abilioluccas/).com/in/abilioluccas/
 - 📫 My online CV AbilioLuccas.[github.io](https://abilioluccas.github.io/) 
